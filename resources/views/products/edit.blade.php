@@ -46,6 +46,7 @@
                     <textarea class="form-control" style="height:150px" name="coment" placeholder="Coment">{{ $product->coment }}</textarea>
                 </div>
             </div>
+            
             <div class="col-xs-12 col-sm-12 col-md-12 text-center">
               <button type="submit" class="btn btn-primary">Submit</button>
             </div>
